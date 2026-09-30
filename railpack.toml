@@ -1,0 +1,7 @@
+[build]
+builder = "railpack"
+
+[deploy]
+auto-migrate = false
+auto-seed = false
+
